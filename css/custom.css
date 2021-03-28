@@ -1,0 +1,17 @@
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+    background-color: #fff;
+}
+.about-us .points:before {
+    color: #11ce4b;
+}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+    color: #0593f9;
+}
+#filters ul li a:hover h5, #filters ul li a.active h5 {
+    background: #0593f9;
+    color: #FFFFFF;
+    border:#0593f9 solid 1px;
+}
+.input-btn {
+    background:  #0593f9;
+}
